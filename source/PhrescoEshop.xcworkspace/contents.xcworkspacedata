@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:../Work/Phresco/Native-eshop/source/Phresco.xcodeproj">
+      location = "group:Projects/Native-eshop/source/Phresco.xcodeproj">
    </FileRef>
 </Workspace>
